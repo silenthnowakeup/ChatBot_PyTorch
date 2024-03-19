@@ -1,1 +1,9 @@
 .venv
+.idea/.gitignore
+.idea/ChatBot_PyTorch.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+__pycache__/chatbot.cpython-311.pyc
+__pycache__/model.cpython-311.pyc
+__pycache__/nltk_utils.cpython-311.pyc
